@@ -4,6 +4,7 @@
 
 ## 项目简介
 本项目旨在使用 PyTorch 框架开发一个卷积神经网络（CNN）模型，对 CIFAR-10 数据集进行图像分类。通过数据预处理、优化策略和模型设计，最终在测试集上达到了 **80.18%** 的准确率。（使用官方的教程所训练出的模型的平均准确率仅为50%左右，见Original代码）
+![f0eb03675786a7aae4a7f46fcba7a618](https://github.com/user-attachments/assets/39c15727-d2eb-4935-8a9c-6fb8d019e584)
 
 ## 技术栈
 - **框架**：PyTorch
@@ -35,6 +36,7 @@
 
 ## 测试结果
 - **测试集准确率**：在测试集上达到了 **80.18%** 的准确率。
+- ![7f354f7f81f9fbff2ecbc7fdd870a0d9](https://github.com/user-attachments/assets/dad8c92c-6f77-4ef4-8363-738ee13aa5da)
 
 ## 项目成果
 - **高效模型**：通过优化模型结构和训练策略，显著提高了模型的训练效率和泛化能力。
