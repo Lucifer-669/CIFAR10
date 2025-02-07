@@ -3,7 +3,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green)](https://github.com/yourusername/cifar10-classifier)
 
 ## 项目简介
-本项目旨在使用 PyTorch 框架开发一个卷积神经网络（CNN）模型，对 CIFAR-10 数据集进行图像分类。通过数据预处理、优化策略和模型设计，最终在测试集上达到了 **80.18%** 的准确率。（使用官方的教程所训练出的模型的平均准确率仅为50%左右）
+本项目旨在使用 PyTorch 框架开发一个卷积神经网络（CNN）模型，对 CIFAR-10 数据集进行图像分类。通过数据预处理、优化策略和模型设计，最终在测试集上达到了 **80.18%** 的准确率。（使用官方的教程所训练出的模型的平均准确率仅为50%左右，见Original代码）
 
 ## 技术栈
 - **框架**：PyTorch
