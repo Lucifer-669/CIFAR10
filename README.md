@@ -45,6 +45,3 @@
 ## 项目结构
 ![image](https://github.com/user-attachments/assets/e0007dc3-a735-4464-94d4-b305c10e6124)
 
-### 作者
-- **冯诗楠**
-- **邮箱：18398998558@163.com**
